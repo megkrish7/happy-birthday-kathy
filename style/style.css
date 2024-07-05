@@ -100,6 +100,10 @@ body {
 
 .five .idea-5 {
   font-size: 4rem;
+  top: 0; /* Move to the top of the container */
+  position: absolute; /* Ensure it is positioned correctly */
+  width: 100%; /* Ensure it spans the full width */
+  text-align: center; /* Center align text */
 }
 
 .idea-5 span,
